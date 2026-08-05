@@ -6,7 +6,7 @@ A simple Python math trainer for children in grades 1-5. Helps practice addition
 
 # Features
 
-- Random math problems: `+`, `-`, `*`, ':'
+- Random math problems: `+`, `-`, `*`, `:` 
 - User chooses how many problems to solve
 - 3 attempts per problem with hints
 - Friendly messages that encourage children
